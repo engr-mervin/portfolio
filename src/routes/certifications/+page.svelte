@@ -1,10 +1,14 @@
 <script>
 	import Link from '../Link.svelte';
+	import List from '../List.svelte';
 	import Title from '../Title.svelte';
 </script>
 
+<svelte:head>
+	<title>Certifications</title>
+</svelte:head>
 <Title>Certifications</Title>
-<div class="flex flex-col justify-center align-middle">
+<List>
 	<Link link="/certifications/JavaScript"
 		>The Complete JavaScript Course 2023: From Zero to Expert!</Link
 	>
@@ -18,4 +22,4 @@
 	>
 	<Link link="/certifications/Agile">Agile Fundamentals: Including Scrum & Kanban</Link>
 	<Link link="/">Back</Link>
-</div>
+</List>
