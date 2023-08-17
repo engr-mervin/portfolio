@@ -1,0 +1,14 @@
+<script>
+	import Info from '../../Info.svelte';
+	import Link from '../../Link.svelte';
+	import Title from '../../Title.svelte';
+</script>
+
+<Title>Agile Fundamentals: Including Scrum & Kanban</Title>
+<div class="flex flex-col justify-center align-middle">
+	<Info>From July 11, 2023 to July 12, 2023</Info>
+	<Link link="https://www.udemy.com/certificate/UC-5eb8fff7-b18e-407a-acbb-53249e99445b/"
+		>View Certificate</Link
+	>
+	<Link link="/certifications">Back</Link>
+</div>
