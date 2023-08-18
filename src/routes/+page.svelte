@@ -19,5 +19,7 @@
 		><img src="/icons/logo-github.svg" alt="Github Icon" /></a
 	><a href="https://www.linkedin.com/in/engr-mervin/" class="h-10 w-10 mt-16"
 		><img src="/icons/logo-linkedin.svg" alt="LinkedIn Icon" /></a
+	><a href="mailto:johnmervin.bocatcat@gmail.com" class="h-10 w-10 mt-16"
+		><img src="/icons/logo-google.svg" alt="Google Icon" /></a
 	>
 </div>
