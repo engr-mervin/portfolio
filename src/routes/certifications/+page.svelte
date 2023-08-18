@@ -1,4 +1,5 @@
 <script>
+	import Back from '../Back.svelte';
 	import Link from '../Link.svelte';
 	import List from '../List.svelte';
 	import Title from '../Title.svelte';
@@ -21,5 +22,5 @@
 		>React - The Complete Guide 2023 (incl. React Router & Redux)</Link
 	>
 	<Link link="/certifications/Agile">Agile Fundamentals: Including Scrum & Kanban</Link>
-	<Link link="/">Back</Link>
+	<Back link="/">Back</Back>
 </List>

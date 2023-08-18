@@ -1,4 +1,5 @@
 <script>
+	import Back from '../Back.svelte';
 	import Link from '../Link.svelte';
 	import List from '../List.svelte';
 	import Title from '../Title.svelte';
@@ -15,5 +16,5 @@
 	<Link link="/training/omnifood">Omnifood</Link>
 	<Link link="/training/forkify">Forkify</Link>
 	<Link link="/training/mapty">Mapty</Link>
-	<Link link="/">Back</Link>
+	<Back link="/">Back</Back>
 </List>
